@@ -119,3 +119,11 @@ nav a{
     font-weight: bold;
     color: #474747;
 }
+#what-i-do-description{
+    padding: 50px 350px;
+}
+.what-i-do-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
