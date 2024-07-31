@@ -17,6 +17,13 @@ body{
     padding: 18px 35px;
 
 }
+.section-title{
+    font-weight: bold;
+    font-size: 30px;
+    color: #181818;
+    text-align: center;
+
+}
 /* nav related styles */
 nav{
     display:flex;
@@ -83,4 +90,17 @@ nav a{
     
     max-width: 585px;
 }
+/* main section styles */
 
+
+/* about section styles */
+.about{
+    margin: 130px 230px;
+    padding: 130px 157px;
+    background-color: #FFF8F3;
+}
+.section-description{
+    font-size: 18px;
+    color: #757575;
+    text-align: center;
+}
