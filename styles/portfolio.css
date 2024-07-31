@@ -104,3 +104,18 @@ nav a{
     color: #757575;
     text-align: center;
 }
+.about-info-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.about-info-container .info-title{
+    font-size: 20px;
+    font-weight: 400;
+    color: #757575;
+}
+.about-info-container .info-description{
+    font-size: 20px;
+    font-weight: bold;
+    color: #474747;
+}
